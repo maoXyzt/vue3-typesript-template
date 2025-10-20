@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "oxc.oxc-vscode",
+    "esbenp.prettier-vscode",
+    "antfu.unocss",
+    "mrmlnc.vscode-scss",
+    "antfu.iconify",
+    "fill-labs.dependi"
+  ]
+}

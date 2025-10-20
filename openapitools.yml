@@ -1,0 +1,14 @@
+# client.config.yml
+# References:
+# - https://openapi-generator.tech/docs/generators/typescript-axios
+inputSpec: codegen/openapi.json
+outputDir: src/lib/_client
+generatorName: typescript-axios
+apiPackage: api
+modelPackage: model
+additionalProperties:
+  withSeparateModelsAndApi: on
+  npmVersion: 20.17.0
+  supportsES6: on
+# typeMappings: Date=string
+validateSpec: off
